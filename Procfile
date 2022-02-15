@@ -1,0 +1,1 @@
+web: cd Full-Energy && npm i && node server.js
